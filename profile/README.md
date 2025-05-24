@@ -6,6 +6,8 @@ Welcome to the Awesome HQ repository! This is a curated list of awesome framewor
 
 An “awesome” list is a collection of resources, tools, or information related to a specific topic, typically curated by a community. The goal is to provide a high-quality, well-maintained list that helps others discover valuable content. This repository aims to be your go-to place for discovering spectacular things across various domains.
 
+✨ Anyone can contribute to this list, so feel free to share your own awesome finds!
+
 <!--
 
 **Here are some ideas to get you started:**
