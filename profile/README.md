@@ -1,6 +1,6 @@
 Hi folks 👋
 
-Welcome to the Awesome HQ repository! This is a curated list of awesome frameworks, libraries, software, and resources that happen to be incredibly useful. Whether you're a seasoned developer, a budding enthusiast, or just curious, dive in and discover some truly great tools and knowledge.
+Welcome to the Awesome HQ! This is a curated list of awesome frameworks, libraries, software, and resources that happen to be incredibly useful. Whether you're a seasoned developer, a budding enthusiast, or just curious, dive in and discover some truly great tools and knowledge.
 
 ### What is an “Awesome” list?
 
